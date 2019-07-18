@@ -1,3 +1,6 @@
+@:t ::t \|:t ^:nil -:t f:t \*:t &lt;:nil
+
+TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
 
 Введение
 ========
